@@ -676,7 +676,7 @@ void intro()
     cout<<"\n\n\n\t  BANK ";
     cout<<"\n\n\tMANAGEMENT";
     cout<<"\n\n\t  SYSTEM ";
-    cout<<"\n\n\n\n\t MADE BY : Anju,Alviya,Nidhi,Sangeeta ";
+    cout<<"\n\n\n\n\t MADE BY : Anju ";
     cout<<"\n\n\tSCHOOL : D.A.V Public School, Ghatotand ";
     getch();
  }
